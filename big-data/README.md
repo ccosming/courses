@@ -26,6 +26,8 @@ El alumno después del curso será capaz de:
 - Breve historia
 - ¿Qué lo hace especial? Bondades y limitaciones.
 - Conceptos generales de su Arquitectura:
+  - Namenode.
+  - Datanode.
   - Hadoop Distributed File System (HDFS).
   - Hadoop Yet Another Resource Negociator (YARN).
   - Hadoop MapReduce.
@@ -35,8 +37,8 @@ El alumno después del curso será capaz de:
 ### III. Creación y configuración de un clúster Hadoop Spark.
 
 - Arquitectura del clúster.
-- Revisión de los componentes del cluster.
-- Contenedores Docker a utilizar
+- Revisión de los componentes del clúster.
+- Contenedores Docker a utilizar.
 - Revisión archivo de configuración docker-compose.yaml
 - Creación del clúster.
 - Checks de revisión y pruebas.
