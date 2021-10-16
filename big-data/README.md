@@ -12,7 +12,7 @@ El alumno después del curso será capaz de:
 
 ## :mortar_board: Syllabus
 
-### I. Introducción al Big Data.
+### [I. Introducción al Big Data.](docs/01-big-data-fundamentals.md)
 
 - ¿Qué es el Big Data y por qué existe?
 - Propiedades del Big Data (5v's).
@@ -20,11 +20,11 @@ El alumno después del curso será capaz de:
 - Teconologías asociadas.
 - Principales vendors y soluciones en el mercado.
 
-### II. Ecosistema Hadoop Spark.
+### [II. Ecosistema Hadoop/Spark.](docs/hadoop.md)
 
 - ¿Qué es Hadoop? Aclarando conceptos fundamentales.
-- Breve historia
-- ¿Qué lo hace especial? Bondades y limitaciones.
+- Breve historia.
+- ¿Qué lo hace especial?
 - Conceptos generales de su Arquitectura:
   - Namenode.
   - Datanode.
