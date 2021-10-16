@@ -20,7 +20,7 @@ El alumno después del curso será capaz de:
 - Teconologías asociadas.
 - Principales vendors y soluciones en el mercado.
 
-### [II. Ecosistema Hadoop/Spark.](docs/hadoop.md)
+### [II. Ecosistema Hadoop/Spark.](docs/02-hadoop.md)
 
 - ¿Qué es Hadoop? Aclarando conceptos fundamentales.
 - Breve historia.
