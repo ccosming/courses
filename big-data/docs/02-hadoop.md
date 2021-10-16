@@ -1,4 +1,4 @@
-### II. Ecosistema Hadoop/Spark.
+# II. Ecosistema Hadoop/Spark.
 
 ## ¿Qué es Hadoop? Aclarando conceptos fundamentales.
 
