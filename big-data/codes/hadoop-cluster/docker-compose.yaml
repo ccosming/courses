@@ -15,6 +15,7 @@ services:
     container_name: namenode
     volumes:
       - ./volumes/hdfs/namenode:/hadoop/dfs/name
+      - ./volumes/bank:/data
     environment:
       - CLUSTER_NAME=test
     env_file:
@@ -144,11 +145,6 @@ services:
       - ZEPPELIN_VERSION=0.10.0
     ports:
       - 19090:8080
-    # volumes:
-    #   - ./volumes/zeppelin/data:/opt/zeppelin/data
-    #   - ./volumes/zeppelin/notebook:/opt/zeppelin/notebook
-    #   - ./volumes/zeppelin/logs:/opt/zeppelin/logs
-    #   - ./volumes/zeppelin/run:/opt/zeppelin/run
     depends_on:
       - spark-master
       - namenode
