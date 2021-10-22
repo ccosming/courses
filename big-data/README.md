@@ -44,11 +44,11 @@ El alumno después del curso será capaz de:
 - Checks de revisión y pruebas.
 - Primera interacción con el clúster.
 
-### IV. Interacción con Hadoop Spark.
+### IV. Interacción con Databricks.
 
 - Carga de datos en un entorno distribuido.
 - Consulta de datos en un entorno distribuido.
-- Interacción con Hue.
+- Interacción con Databricks.
 - Procesamiento de datos utilizando Apache Spark.
 - Ejercicios varios.
 
@@ -65,3 +65,7 @@ El alumno después del curso será capaz de:
 - Entendimiento general del estado del arte de las bases de datos tradicionales y sus limitaciones.
 - Conceptos generales de lo que es Docker.
 - Algún lenguaje de programación que permita entender lógicas de tratamientos de datos (Python, Java, etc).
+
+## Anexo
+
+- [Trabajo final](docs/03-final-work.md)
