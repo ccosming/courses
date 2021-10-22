@@ -37,7 +37,7 @@ El formato de entrega es:
 
 - Asunto correo: Trabajo Big Data - Grupo NºXX al mail me@ccosming.com
 - Adjunto de correo:
-  - Archivo BigData_GrupoXX.pdf con el siguiente contenido (máximo 3 hojas).:
+  - Archivo BigData_GrupoXX.pdf con el siguiente contenido (máximo 3 hojas):
     - Descripción del problema y objetivos del análisis.
     - Descripción de los datos y enlace (si aplica).
     - Link del notebook de Databricks.
@@ -47,5 +47,5 @@ El formato de entrega es:
 
 - Cumplimiento de los requisitos y objetivos (50%).
 - Calidad de los resultados obtenidos (25%).
-- Complejidad del problema basado en el ranking (15%)
-- Calidad del código (10%).
+- Complejidad y originalidad del problema basado (15%), en base al ranking que el profesor entregue cada grupo. Los primeros 2 tendrán nota 7 y luego la escala irá decrementando en 5 décimas.
+- Claridad del código (10%).
