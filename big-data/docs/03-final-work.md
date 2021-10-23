@@ -5,7 +5,7 @@
 
 ## Instrucciones Generales
 
-- Seleccionar y descargar del sitio web [Kagle.com](http://kaggle.com) un dataset sobre el cual el grupo desea realizar un análisis de datos. Se acepta que el grupo proponga otros datos pero estos deben cumplir con el criterio que el profesor entregue.
+- Seleccionar y descargar del sitio web [Kaggle.com](http://kaggle.com) un dataset sobre el cual el grupo desea realizar un análisis de datos. Se acepta que el grupo proponga otros datos pero estos deben cumplir con el criterio que el profesor entregue.
 - El tamaño mínimo de los datos deberá ser de **1GB**.
 - Se deberá cargar los datos en formato texto en el ambiente **DBFS** de Databricks.
 
